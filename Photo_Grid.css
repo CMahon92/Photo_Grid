@@ -1,0 +1,20 @@
+h1{
+  font-family: 'Acme', sans-serif;
+  color: white;
+}
+
+img {
+  width: 30%;
+  float: left;
+  margin: 1.666%;
+}
+
+#bull {
+  transform: rotate(180deg);
+}
+
+body {
+  background-image: url(http://www.sarmy.org.au/Global/SArmy/Resources/powerpoints/salvo/galaxies/16x9/Galaxies-01.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
